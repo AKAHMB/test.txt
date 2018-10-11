@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 hello worddddddd asdsasadas
+=======
+vvhghghghghghvghvghvghvghvasasghgv
+hello china
+paile folen
+why
+hhhh
+>>>>>>> b
