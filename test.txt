@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-hello worddddddd asdsasadas
-=======
+
+
 vvhghghghghghvghvghvghvghvasasghgv
 hel
 lo china
@@ -16,3 +15,6 @@ hhhh
 
 from AAAAAAA
 aka.hmb
+
+
+git hup
